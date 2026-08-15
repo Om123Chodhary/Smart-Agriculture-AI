@@ -737,39 +737,22 @@ Then add them to this README using:
 ``` markdown
 ## 📱 Application Interface
 
-![Upload Interface](docs/screenshots/01_upload_interface.png)
+![Upload Interface](Docs/screenshots/01_interface_image.png)
 
-![Final Health Report](docs/screenshots/02_final_health_report.png)
+![Upload Interface](Docs/screenshots/02_interface_image.png)
 
-![AI Decision Explanation](docs/screenshots/03_ai_decision_explanation.png)
+![Upload Interface](Docs/screenshots/03_interface_image.png)
 
-![Individual Image Analysis](docs/screenshots/04_individual_image_analysis.png)
+![Upload Interface](Docs/screenshots/04_interface_image.png)
 
-![Disease Consensus](docs/screenshots/05_disease_consensus.png)
+
+![Model Performance](Docs/model performance/Screenshot 2026-08-15 123707.png)
+
+
 ```
 
-### Recommended screenshots from your current prototype
 
-**Docs/screenshots/01_interface_image.png**
-**Docs/screenshots/02_interface_image.png**
-**Docs/screenshots/03_interface_image.png**
-**Docs/screenshots/04_interface_image.png**
 
-Use the screenshot showing:
-
-> "Smart Tomato Plant Health Analyzer"\
-> "Upload 4 Images"\
-> Four uploaded tomato images.
-
-**02_final_health_report.png**
-
-Use the screenshot showing:
-
-> "Final Plant Health Report"\
-> Disease / Confidence / Consensus / Affected Area\
-> Severity / AI Reliability / Recommended Action
-
-**03_ai_decision_explanation.png**
 
 Use the screenshot showing:
 
