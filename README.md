@@ -750,7 +750,10 @@ Then add them to this README using:
 
 ### Recommended screenshots from your current prototype
 
-**01_upload_interface.png**
+**Docs/screenshots/01_interface_image.png**
+**Docs/screenshots/02_interface_image.png**
+**Docs/screenshots/03_interface_image.png**
+**Docs/screenshots/04_interface_image.png**
 
 Use the screenshot showing:
 
@@ -1132,17 +1135,7 @@ smart-tomato-plant-health/
 │
 ├── models/
 │   └── tomato_mobilenetv3_best.pth
-│
-├── src/
-│   ├── model.py
-│   ├── inference.py
-│   ├── severity.py
-│   ├── consensus.py
-│   └── spray_decision.py
-│
-├── data/
-│   └── README.md
-│
+
 ├── docs/
 │   ├── architecture.png
 │   ├── hardware_architecture.png
@@ -1217,20 +1210,6 @@ The current prototype successfully demonstrates:
 ✅ Prototype spray-duration decision layer
 ✅ Hardware architecture for future integration
 ```
-
-------------------------------------------------------------------------
-
-# 🎤 Hackathon Pitch --- 30 Seconds
-
-> **"Our system moves pesticide application from uniform field spraying
-> to plant-level intelligent decision support. We capture four views of
-> an individual tomato plant, use MobileNetV3-Large to detect disease,
-> estimate confidence and visible affected area, calculate severity, and
-> fuse the four views to measure decision reliability. If the evidence
-> is reliable, the system generates a treatment priority and a prototype
-> actuator command; if the views disagree, it asks for a re-scan instead
-> of blindly spraying. The ultimate goal is targeted intervention,
-> reduced chemical wastage, and more sustainable agriculture."**
 
 ------------------------------------------------------------------------
 
